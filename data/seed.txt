@@ -1,0 +1,20 @@
+Money Plant|Epipremnum aureum|Indoor|120|40|5
+Snake Plant|Dracaena trifasciata|Indoor|250|25|14
+Tulsi|Ocimum tenuiflorum|Medicinal|60|60|2
+Aloe Vera|Aloe vera|Medicinal|150|30|10
+Peace Lily|Spathiphyllum wallisii|Indoor|320|18|5
+Areca Palm|Dypsis lutescens|Indoor|380|12|4
+Spider Plant|Chlorophytum comosum|Indoor|140|35|6
+Rose|Rosa indica|Flowering|180|28|3
+Hibiscus|Hibiscus rosa-sinensis|Flowering|200|22|2
+Jasmine|Jasminum sambac|Flowering|170|26|3
+Marigold|Tagetes erecta|Flowering|40|80|2
+Neem|Azadirachta indica|Medicinal|220|15|5
+Mango|Mangifera indica|Fruit|450|8|4
+Lemon|Citrus limon|Fruit|350|10|4
+Bougainvillea|Bougainvillea glabra|Outdoor|240|20|4
+Lucky Bamboo|Dracaena sanderiana|Indoor|180|30|7
+Jade Plant|Crassula ovata|Indoor|200|24|12
+ZZ Plant|Zamioculcas zamiifolia|Indoor|420|9|14
+Curry Leaf Plant|Murraya koenigii|Outdoor|130|33|3
+Guava Plant|Psidium guajava|Fruit|300|14|4

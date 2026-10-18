@@ -1,0 +1,3 @@
+EASIEST: open this folder in VS Code, right-click index.html -> "Open with Live Server" (or just double-click index.html).
+No Node/npm needed. Data is saved in your browser (localStorage). First admin login sets your passcode.
+OPTIONAL real backend: run "node server.js" and open http://localhost:3000 (data saved in data/db.json).

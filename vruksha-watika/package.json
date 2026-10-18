@@ -1,0 +1,1 @@
+{"name":"vruksha-watika","version":"2.0.0","description":"Plant nursery shop + admin dashboard (zero-dependency Node backend)","main":"server.js","scripts":{"start":"node server.js"},"engines":{"node":">=16"}}
